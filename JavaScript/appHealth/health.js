@@ -76,5 +76,6 @@ function limpar() {
     document.getElementById("imc").innerHTML = ""
     document.getElementById("status").innerHTML = ""
     document.getElementById("freq").innerHTML = ""
+    document.getElementById("calorias").innerHTML = ""
     document.getElementById("grafico").src = "icons/reset.png"
 }
